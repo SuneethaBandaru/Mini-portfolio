@@ -26,3 +26,7 @@ CSS3 - Modern styling with accessibility in mind
 JavaScript (ES6+) - Vanilla JavaScript
 Boxicons - Accessible icon library
 GitHub API - Dynamic project fetching
+
+vercel link: https://mini-portfolio-beta.vercel.app/
+
+github link: https://github.com/SuneethaBandaru/Mini-portfolio
